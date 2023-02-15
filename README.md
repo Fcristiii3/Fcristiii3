@@ -7,7 +7,7 @@
   🔭 Passionate in technology
   
   🧑🏻‍💻 My projects :
-  <div id="projects"
+  <div id="projects">
        
     </div>
 

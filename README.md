@@ -7,9 +7,7 @@
   🔭 Passionate in technology
   
   🧑🏻‍💻 My projects :
-  <div id="projects">
-       Soon link
-    </div>
+ [Social App](https://github.com/Fcristiii3/Social-App)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/cristian-furdui-a53270246/">

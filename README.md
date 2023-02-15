@@ -5,7 +5,7 @@
   🌱 I like to explore new concepts and learn whatever I can
   
   🔭 Passionate in technology
-  
+
   🧑🏻‍💻 My projects :
  [Social App](https://github.com/Fcristiii3/Social-App)
  [Medchain](https://github.com/Fcristiii3/medchain)
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/cristian-furdui-a53270246/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://github.com/Fcristiii3/Fcristiii3/files/10744381/Cristian-Gabriel.s.Resume.13.pdf">
+   <a href="https://github.com/Fcristiii3/Fcristiii3/files/10744389/Cristian-Gabriel.s.Resume.pdf">
     <img src="https://img.shields.io/badge/cv-grey?style=for-the-badge&logo=cv&logoColor=black" alt="CV Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100010682687507">

@@ -8,7 +8,7 @@
   
   🧑🏻‍💻 My projects :
   <div id="projects">
-       
+       Soon link
     </div>
 
 <div id="badges">

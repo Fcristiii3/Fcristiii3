@@ -1,8 +1,22 @@
-### Hi there 👋
+### ✨About Me ✨
+
+  📖 Student at Technical University of Cluj-Napoca, Automation and Computer Science
+  
+  🌱 I like to explore new concepts and learn whatever I can
+  
+  🔭 Passionate in technology
+  
+  🧑🏻‍💻 My projects :
+  <div id="projects"
+       
+    </div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/cristian-furdui-a53270246/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100010682687507">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
  </div>
 
